@@ -1,7 +1,7 @@
 opencv-python-headless
 streamlit
 requests
-torch
+torch==2.1.0
 ultralytics
 Pillow
 
