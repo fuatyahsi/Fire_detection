@@ -102,7 +102,7 @@ if video_file is not None:
             break  # Video bittiğinde döngüyü durdur
 
         # Frame üzerinde tahmin yap (manuel çizim kullanılıyor)
-        im = predict_frame(frame, 0.25, 0.40, 640)
+        im = predict_frame(frame, 0.20, 0.40, 640)
 
         # Streamlit ile tahmin sonuçlarını göster
         frame_display.image(im, caption="Developed by Fuat YAHŞİ", use_container_width=True)
