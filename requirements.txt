@@ -1,2 +1,9 @@
 opencv-python-headless
+streamlit
+requests
+torch
+ultralytics
+Pillow
+
+
 
