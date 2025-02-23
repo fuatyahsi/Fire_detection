@@ -1,9 +1,9 @@
-opencv-python-headless
-streamlit
-requests
+opencv-python-headless==4.6.0.66
+streamlit==1.20.0
+requests==2.28.1
 torch==2.1.0
-ultralytics
-Pillow
+ultralytics==8.0.73
+Pillow==9.3.0
 
 
 
